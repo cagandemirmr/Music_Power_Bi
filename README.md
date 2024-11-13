@@ -57,4 +57,12 @@ In the end, i wanted to answer "Who made the most purchase?" question.So i creat
 
 ![image](https://github.com/user-attachments/assets/b3d19d8b-bdc0-4f99-8177-3e9c4405da9a)
 
+Also, i wanted to add image and Text to complete my Dashboard.
+
+![image](https://github.com/user-attachments/assets/8205bed7-bcab-419e-985b-af0d4aa88ce1)
+
+I finished all off the graph but i can not still answer all questions and i do not wanted to design new dashboard because there are only 3-4 questions.
+So i decided to create pop up window.In next page, i created mini dashboard.
+
+![image](https://github.com/user-attachments/assets/4b0859b9-c072-48cb-bafa-809a9fe75498)
 

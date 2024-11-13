@@ -61,8 +61,33 @@ Also, i wanted to add image and Text to complete my Dashboard.
 
 ![image](https://github.com/user-attachments/assets/8205bed7-bcab-419e-985b-af0d4aa88ce1)
 
-I finished all off the graph but i can not still answer all questions and i do not wanted to design new dashboard because there are only 3-4 questions.
+I finished all off the graph but i can not still answer all questions and i do not wanted to design new dashboard because there are only 3-4 questions left.
 So i decided to create pop up window.In next page, i created mini dashboard.
 
 ![image](https://github.com/user-attachments/assets/4b0859b9-c072-48cb-bafa-809a9fe75498)
+
+First i create round shape and adjust transparency 50-60% then  i add pie chart first i get name of artist on artist table and counts on album table.
+So i can answer "Which Rock artists make the most album?".
+
+![image](https://github.com/user-attachments/assets/f4f40635-d409-4f2e-9ea3-d59c7b2786c5)
+
+Also, i added table to show Top 10 rock fans by amount of shopping.
+
+![image](https://github.com/user-attachments/assets/47282edd-1cd9-4bcf-9ee2-61113f203d32)
+
+In the end, i created blank button to close popup window and group all popup window elements.
+![image](https://github.com/user-attachments/assets/0ac690cb-5544-4531-82ce-544317d7aed5)
+
+And paste to the main dashbord. ı used bookmark to define condition to appear and disappear.
+
+![image](https://github.com/user-attachments/assets/3fb7de2b-211b-44e4-920b-e48a36f3c741)
+
+And create new button in dashboard to display popup window. Assign apperance of window to the button in dashboard and assign disappearence to the x button in popup window.
+
+![image](https://github.com/user-attachments/assets/369f9ca3-bc1d-42de-ab60-3a8cf87db252)
+
+
+
+
+
 
